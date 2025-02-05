@@ -1,0 +1,14 @@
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\bin\Debug\net9.0\Conc_func.exe
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\bin\Debug\net9.0\Conc_func.deps.json
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\bin\Debug\net9.0\Conc_func.runtimeconfig.json
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\bin\Debug\net9.0\Conc_func.dll
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\bin\Debug\net9.0\Conc_func.pdb
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\obj\Debug\net9.0\Conc_func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\obj\Debug\net9.0\Conc_func.AssemblyInfoInputs.cache
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\obj\Debug\net9.0\Conc_func.AssemblyInfo.cs
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\obj\Debug\net9.0\Conc_func.csproj.CoreCompileInputs.cache
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\obj\Debug\net9.0\Conc_func.dll
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\obj\Debug\net9.0\refint\Conc_func.dll
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\obj\Debug\net9.0\Conc_func.pdb
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\obj\Debug\net9.0\Conc_func.genruntimeconfig.cache
+C:\Users\mmons\Documents\RepasoFunc\Conc_func\obj\Debug\net9.0\ref\Conc_func.dll

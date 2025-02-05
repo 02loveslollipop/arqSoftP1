@@ -1,0 +1,4 @@
+namespace Conc_func
+{
+    
+}
