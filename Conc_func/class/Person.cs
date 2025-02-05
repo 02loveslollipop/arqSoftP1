@@ -6,7 +6,7 @@ namespace Conc_func
         private string name;
         private string id;
 
-        //Accesors
+        //Accessors
         public string Name
         {
             get => name;

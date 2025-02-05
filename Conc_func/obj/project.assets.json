@@ -8,24 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mmons\\.nuget\\packages\\": {}
+    "C:\\Users\\Katana GF66 11UC\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mmons\\Documents\\arq_soft\\Conc_func\\Conc_func.csproj",
+      "projectUniqueName": "C:\\Users\\Katana GF66 11UC\\Documents\\arqSoftP1\\Conc_func\\Conc_func.csproj",
       "projectName": "Conc_func",
-      "projectPath": "C:\\Users\\mmons\\Documents\\arq_soft\\Conc_func\\Conc_func.csproj",
-      "packagesPath": "C:\\Users\\mmons\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mmons\\Documents\\arq_soft\\Conc_func\\obj\\",
+      "projectPath": "C:\\Users\\Katana GF66 11UC\\Documents\\arqSoftP1\\Conc_func\\Conc_func.csproj",
+      "packagesPath": "C:\\Users\\Katana GF66 11UC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Katana GF66 11UC\\Documents\\arqSoftP1\\Conc_func\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\mmons\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Katana GF66 11UC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

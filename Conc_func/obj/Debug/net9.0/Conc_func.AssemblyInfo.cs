@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conc_func")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9f907f791731732aa8bfde5abf271adf1863746")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conc_func")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conc_func")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

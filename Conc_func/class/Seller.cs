@@ -3,18 +3,18 @@ namespace Conc_func
     class Seller: Person
     {
         //data
-        private float comission;
+        private float commission;
         
         //Accesors
-        public float Comission
+        public float Commission
         {
-            get => comission;
-            set => comission = (value < Dealership.min_comission || value > Dealership.max_comission) ? throw new ArgumentException("Invalid comission") : value;
+            get => commission;
+            set => commission = (value < Dealership.min_commission || value > Dealership.max_commission) ? throw new ArgumentException("Invalid comission") : value;
         }
         //Constructor
-        public Seller(string name, string id, float comission): base(name, id)
+        public Seller(string name, string id, float commission): base(name, id)
         {
-            Comission = comission;
+            Commission = commission;
         }
     }
 }

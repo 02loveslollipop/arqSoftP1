@@ -9,8 +9,8 @@ namespace Conc_func
         //buissness logic
         internal readonly static float min_dscnt = 0.01f;
         internal readonly static float max_dscnt = 0.025f;
-        internal readonly static float min_comission = 0.015f;
-        internal readonly static float max_comission = 0.025f;
+        internal readonly static float min_commission = 0.015f;
+        internal readonly static float max_commission = 0.025f;
         internal readonly static byte plate_length = 6;
         internal readonly static byte taxi_company_length = 6;
         internal readonly static byte min_brand_name_length = 2;
@@ -18,13 +18,18 @@ namespace Conc_func
         internal readonly static byte year_model_range = 2;
         internal readonly static int min_motor_cylindrange_range = 1000;
         internal readonly static int max_motor_cylindrange_range = 6000;
-        internal readonly static sbyte min_doors = 2;
-        internal readonly static sbyte max_doors = 5;
-        internal readonly static byte nro_puertas_2 = 2, nro_puertas_3 = 3, nro_puertas_5 = 5;
+        internal readonly static sbyte min_seats = 2;
+        internal readonly static sbyte max_seats = 5;
+        internal readonly static sbyte[] valid_doors = {2,3,5};
         internal readonly static byte min_length_name = 2;
         internal readonly static byte min_length_dir = 2;
         internal readonly static byte length_id = 10;
+        internal readonly static ulong min_price = 60000000;
+        internal readonly static sbyte min_fog_lights = 2;
+        internal readonly static sbyte max_fog_lights = 6;
+        internal readonly static byte min_lenght_taxi_driver_card_id = 5;
         internal static ulong next_invoice_number = 10000;
+
 
 
         //states
