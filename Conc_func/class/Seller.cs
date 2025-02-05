@@ -9,7 +9,7 @@ namespace Conc_func
         public float Commission
         {
             get => commission;
-            set => commission = (value < Dealership.min_commission || value > Dealership.max_commission) ? throw new ArgumentException("Invalid comission") : value;
+            set => commission = (value < Dealership.min_commission || value > Dealership.max_commission) ? throw new ArgumentException("Invalid commission") : value;
         }
         //Constructor
         public Seller(string name, string id, float commission): base(name, id)

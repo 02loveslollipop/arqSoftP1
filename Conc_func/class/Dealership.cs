@@ -6,7 +6,7 @@ namespace Conc_func
         //data
         private string name;
         private string address;
-        //buissness logic
+        //business logic
         internal readonly static float min_dscnt = 0.01f;
         internal readonly static float max_dscnt = 0.025f;
         internal readonly static float min_commission = 0.015f;
@@ -27,7 +27,7 @@ namespace Conc_func
         internal readonly static ulong min_price = 60000000;
         internal readonly static sbyte min_fog_lights = 2;
         internal readonly static sbyte max_fog_lights = 6;
-        internal readonly static byte min_lenght_taxi_driver_card_id = 5;
+        internal readonly static byte min_length_taxi_driver_card_id = 5;
         internal static ulong next_invoice_number = 10000;
 
 
@@ -41,7 +41,7 @@ namespace Conc_func
 
         private Func<String,bool> checkAddress = (String address) => (String.IsNullOrEmpty(address) || String.IsNullOrWhiteSpace(address) || address.Length < min_length_dir) ? false  : true;
 
-        //Accesors
+        //Accessors
         public string Name
         {
             get => name;

@@ -13,7 +13,7 @@ namespace Conc_func
         private ulong raw_value;
         private byte seats;
 
-        //Accesors
+        //Accessors
         public string Plate
         {
             get => plate;

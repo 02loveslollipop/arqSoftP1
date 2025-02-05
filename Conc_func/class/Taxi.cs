@@ -10,7 +10,7 @@ namespace Conc_func
         public string OperatorCardId
         {
             get => operatorCardId;
-            set => operatorCardId = (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value) || value.Length < Dealership.min_lenght_taxi_driver_card_id) ? throw new ArgumentException("Invalid operator card id") : value;    
+            set => operatorCardId = (string.IsNullOrEmpty(value) || string.IsNullOrWhiteSpace(value) || value.Length < Dealership.min_length_taxi_driver_card_id) ? throw new ArgumentException("Invalid operator card id") : value;
         }
 
         public string Company
